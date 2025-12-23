@@ -1,0 +1,11 @@
+Feature,GB_Importance,RF_Importance
+Tenure,0.147473,0.159468
+MonthlyCharges,0.194904,0.19839
+TotalCharges,0.107791,0.19343
+Contract,0.382935,0.094318
+InternetService,0.033627,0.043786
+PaymentMethod,0.014242,0.038097
+Gender,0.0,0.028763
+PaperlessBilling,0.022503,0.027014
+OnlineSecurity,0.019885,0.025017
+Partner,0.0,0.023246

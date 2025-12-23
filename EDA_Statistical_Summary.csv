@@ -1,0 +1,37 @@
+Metric,Value
+Total Records,"7,043"
+Total Features,21 (19 features + target)
+Missing Values (TotalCharges),11 (0.16%)
+Data Quality %,99.84%
+,
+Tenure (Mean),32.37 months
+Tenure (Median),29.00 months
+Tenure (Std Dev),24.56 months
+Tenure (Min-Max),0-72 months
+,
+Monthly Charges (Mean),$64.76
+Monthly Charges (Median),$70.35
+Monthly Charges (Range),$18.25-$118.75
+,
+Total Charges (Mean),"$2,281.92"
+Total Charges (Median),"$1,397.48"
+Total Charges (Range),"$18.80-$8,684.80"
+,
+Overall Churn Rate,26.54%
+Non-Churned Customers,"5,174 (73.46%)"
+Churned Customers,"1,869 (26.54%)"
+,
+Contract: Month-to-Month %,55.02%
+Contract: One Year %,20.91%
+Contract: Two Year %,24.07%
+,
+Internet Service: Fiber Optic %,43.96%
+Internet Service: DSL %,34.37%
+Internet Service: None %,21.67%
+,
+Tech Support: Yes %,29.02%
+Tech Support: No %,70.98%
+,
+Average Tenure (Non-Churned),37.57 months
+Average Tenure (Churned),17.98 months
+Tenure Difference (Months),19.59 months (2.08x difference)

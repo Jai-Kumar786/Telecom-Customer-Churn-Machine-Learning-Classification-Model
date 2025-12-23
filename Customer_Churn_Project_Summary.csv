@@ -1,0 +1,35 @@
+Metric,Value
+Dataset Size,"7,043"
+Total Features,19
+Target Variable,Churn (Binary: Yes/No)
+Churn Rate,26.54%
+Training Samples,"5,634"
+Test Samples,"1,409"
+Train/Test Split,80-20 with stratification
+,
+Best Model,Gradient Boosting Classifier
+Best Model Accuracy,79.63%
+Best Model Precision,64.45%
+Best Model Recall,51.87%
+Best Model F1-Score,0.5748
+Best Model ROC-AUC,0.8402
+,
+Top Churn Driver,Contract Type
+Top Driver Importance,38.29%
+2nd Top Driver,Monthly Charges
+2nd Driver Importance,19.49%
+3rd Top Driver,Tenure
+3rd Driver Importance,14.75%
+,
+Confusion Matrix - TN,932
+Confusion Matrix - FP,103
+Confusion Matrix - FN,182
+Confusion Matrix - TP,192
+,
+Expected Revenue Impact (Year 1),"$937,500 (conservative estimate)"
+Program Cost (Year 1),"$75,000"
+Net Benefit (Year 1),"$862,500"
+Expected ROI,"1,050%"
+,
+Model Deployment Timeline,8 weeks to full deployment
+Retraining Frequency,Monthly with quarterly audit
